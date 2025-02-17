@@ -1,1 +1,2 @@
-# Flappy-game
+# flappy-game
+ 
